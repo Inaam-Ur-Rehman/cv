@@ -113,7 +113,7 @@ const Description = () =>{
                 <h3 style={{marginTop: "20px", marginBottom: "20px"}}>Projects</h3>
                 <div className="row" style={{marginBottom: "38px"}}>
                     <div className="col">
-                        <div className="card"><img className="card-img-top w-100 d-block" src={image1}
+                        <div className="card"><img alt={"this"} className="card-img-top w-100 d-block" src={image1}
                                                    style={{height: "300px"}}/>
                             <div className="card-body" style={{height: "82px"}}>
                                 <h4 className="card-title">WanderersPk</h4>
@@ -121,7 +121,7 @@ const Description = () =>{
                         </div>
                     </div>
                     <div className="col">
-                        <div className="card"><img className="card-img-top w-100 d-block" style={{height: "300px"}}
+                        <div className="card"><img alt={"this"} className="card-img-top w-100 d-block" style={{height: "300px"}}
                                                    src={image2}/>
                             <div className="card-body" style={{height: "82px"}}>
                                 <h4 className="card-title">Professors Academy</h4>
