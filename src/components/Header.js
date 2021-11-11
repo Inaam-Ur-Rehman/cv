@@ -8,7 +8,7 @@ const Header = () =>{
                     <div className="card d-flex flex-row justify-content-xl-start align-items-xl-start"
                          style={{width: "688px",background:"var(--bs-gray-dark)",color: "var(--bs-gray-100)",borderStyle: "none"}}>
                         <div className="card-body d-flex" style={{width: "762.8px"}}>
-                            <img src={image} style={{width: "200px",height: "200px",borderRadius:" 122px"}}  alt="User Image"/>
+                            <img src={image} style={{width: "200px",height: "200px",borderRadius:" 122px"}}   alt={"user"}/>
 
                             <h1 className="d-lg-flex flex-grow-1 align-items-lg-center justify-content-xxl-start align-items-xxl-center"
                                 style={{color: "var(--bs-white)",textAlign: "left", width: "351px", fontSize: "45px", height: "176px", marginLeft: "20px"}}>MUHAMMAD
